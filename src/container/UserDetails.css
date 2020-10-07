@@ -1,0 +1,16 @@
+.userdetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.userdetails > table {
+  border: 1px solid grey;
+  padding: 10px;
+}
+td,
+th {
+  border: 1px solid grey;
+  padding: 10px;
+}
